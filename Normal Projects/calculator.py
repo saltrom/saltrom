@@ -19,4 +19,4 @@ elif operation == "^^":
     result = num1 ** num2
     print(result)
 else:
-    print("Something went wrong")
+    break;
